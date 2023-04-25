@@ -1,0 +1,11 @@
+#card1{
+    
+    background-color: rgb(176, 70, 218);
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+    padding: 50px;
+}
+img{
+    height: 80px;
+}
